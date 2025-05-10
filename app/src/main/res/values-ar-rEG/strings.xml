@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">Error: %1$s</string>
+    <string name="date">Date: %1$s\n</string>
+    <string name="min_temp">Min Temp: %1$f\n</string>
+    <string name="max_temp">Max Temp: %1$f</string>
+    <string name="condition">Condition: %1$s</string>
+    <string name="back_to_current_weather">Back to Current Weather</string>
+    <string name="temperature_c">Temperature: %1$f°C</string>
+    <string name="feels_like_c">Feels Like : %1$f°C</string>
+    <string name="view_5_day_forecast">View 5-Day Forecast</string>
+    <string name="humidity">Humidity: %1$d%%</string>
+    <string name="_5_day_forecast">5-Day Forecast</string>
+    <string name="back">back</string>
+    <string name="current_weather">Current Weather</string>
+</resources>
