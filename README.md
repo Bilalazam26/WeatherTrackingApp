@@ -33,6 +33,7 @@ This is a clean and testable weather tracking app built in Kotlin using Jetpack 
 ## Testing Strategy
 
 - Unit Tests:
+  - use github action to run tests
   - Use cases: GetCurrentWeatherUseCase, GetForecastWeatherUseCase
   - Repository and data source logic
   - JSON parsing logic
