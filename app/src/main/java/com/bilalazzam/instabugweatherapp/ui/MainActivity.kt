@@ -1,14 +1,11 @@
-package com.bilalazzam.instabugweatherapp
+package com.bilalazzam.instabugweatherapp.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
 import com.bilalazzam.instabugweatherapp.di.DataModule
-import com.bilalazzam.instabugweatherapp.ui.AppScreens
 import com.bilalazzam.instabugweatherapp.ui.currentweather.CurrentWeatherScreen
 import com.bilalazzam.instabugweatherapp.ui.forecast.ForecastScreen
 import com.bilalazzam.instabugweatherapp.ui.theme.InstabugWeatherAppTheme
